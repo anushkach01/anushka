@@ -1,0 +1,39 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: rgba(255, 255, 255, 0.87);
+  background: url(./image.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-synthesis: none;
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  align-content: center;
+}
+
+.container {
+  border: 2px solid rgb(135, 30, 30);
+  background: url(./image.jpeg);
+  border-radius: 25px;
+  height: 450px;
+  width: 300px;
+  padding: 30px;
+  color: rgb(255, 255, 255);
+  background:space;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+
+}
+
+.container h1 {
+  background: url(./gltter.gif.gif);
+
+}
